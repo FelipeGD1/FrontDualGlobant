@@ -1,0 +1,35 @@
+.container{
+    width: 60%;
+    height: 60%;
+    margin: 0 auto;
+    margin-top: 5%;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 5%;
+}
+
+.logo-store{
+    margin-left: 40%;
+    padding-top: 5%;
+}
+
+.form-login{
+    padding: 10px 10px;
+}
+
+
+.container h1{
+    text-align: center;
+}
+
+.container p{
+    text-align: center;
+}
+
+.register-form{
+    padding: 20px;
+}
+
+.buttonBackLogin{
+    color: black;
+}
