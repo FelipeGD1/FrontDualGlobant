@@ -43,7 +43,7 @@ function verificationRegister(email){
 //Funcion para validar usuarios registrados
 function emailExist(email) {
     for (let i = 0; i < users.length; i++) {
-        if (users[i].email.toLowerCase() == email.toLowerCase) {
+        if (users[i].email.toLowerCase() == email.toLowerCase()) {
             return true;
         }
     }
